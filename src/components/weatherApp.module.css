@@ -1,0 +1,10 @@
+.containerAll{
+    display: flex;
+    flex-direction: row;
+}
+
+.weatherContainer {
+    width: 500px;
+    height: 50px;
+    margin: 150px auto;
+}

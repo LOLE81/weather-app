@@ -1,0 +1,38 @@
+.mainInfo {
+    background-color: white;
+    padding: 40px;
+    border-radius: 7px;
+    box-sizing: border-box;
+}
+
+.city {
+    font-size: 33px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.country {
+    font-size: 25px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.weatherConditions {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.condition {
+    font-size: 20px;
+}
+
+.current {
+    font-size: 38px;
+    font-weight: 500;
+}
